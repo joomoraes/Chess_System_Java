@@ -29,7 +29,7 @@
  
  **[Color]**(https://github.com/joomoraes/Chess_System_Java/blob/master/src/chess/Color.java)
  
- # Piece #
+ # Pieces #
  
  **[Bishop]**(https://github.com/joomoraes/Chess_System_Java/blob/master/src/chess/pieces/Bishop.java)
  
